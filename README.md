@@ -1,3 +1,5 @@
-📄 **Project Poster**
+## 📄 Project Poster
 
-[Poster (PDF)](poster.pdf)
+![Poster](poster.png)
+
+👉 Full-resolution PDF: [poster.pdf](poster.pdf)
