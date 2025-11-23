@@ -1,4 +1,4 @@
-## 📄 Project Poster
+## 📄 Graphical Abstract
 
 ![Poster](poster.png)
 
